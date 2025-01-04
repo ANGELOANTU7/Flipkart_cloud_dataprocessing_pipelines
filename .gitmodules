@@ -1,0 +1,12 @@
+[submodule "Flipkart_AutoFlagging_Pipeline"]
+	path = Flipkart_AutoFlagging_Pipeline
+	url = git@github.com:ANGELOANTU7/Flipkart_AutoFlagging_Pipeline.git
+[submodule "Flipkart_Insight_Generator_Pipeline"]
+	path = Flipkart_Insight_Generator_Pipeline
+	url = git@github.com:ANGELOANTU7/Flipkart_Insight_Generator_Pipeline.git
+[submodule "Flipkart_Expiry_Flagging_Pipeline"]
+	path = Flipkart_Expiry_Flagging_Pipeline
+	url = git@github.com:ANGELOANTU7/Flipkart_Expiry_Flagging_Pipeline.git
+[submodule "flipkart_data_ingestion_pipeline"]
+	path = flipkart_data_ingestion_pipeline
+	url = git@github.com:ANGELOANTU7/flipkart_data_ingestion_pipeline.git
